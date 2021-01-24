@@ -1,0 +1,5 @@
+- iocdemo.SimpleIOC // IOC 的实现类，实现了上面所说的4个步骤
+- SimpleIOCTest    // IOC 的测试类
+- Car           // IOC 测试使用的 iocdemo.bean
+- Wheel         // 同上
+- ioc.xml       // iocdemo.bean 配置文件
